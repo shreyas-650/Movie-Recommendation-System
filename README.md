@@ -21,6 +21,14 @@ A content-based movie recommendation system that recommends movies based on thei
 - Scikit-learn
 - Streamlit
 
+## 📌 Dataset
+
+🎬 **TMDB Movie Metadata Dataset**
+
+🔗 [TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
+The dataset contains movie information such as titles, genres, keywords, cast, crew, and overviews, which are used to build the content-based recommendation system.
+
 ## 🔄 Workflow
 
 ```text
