@@ -21,13 +21,13 @@ A content-based movie recommendation system that recommends movies based on thei
 - Scikit-learn
 - Streamlit
 
-## 📌 Dataset
+# 🎬 Movie Recommendation System
 
-🎬 **TMDB Movie Metadata Dataset**
+A content-based movie recommendation system using NLP, Bag of Words and cosine similarity.
 
-🔗 [TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+🚀 **Live Demo:** [Cinema-Suggest](https://movie-recommendation-system-2qre.onrender.com/)
 
-The dataset contains movie information such as titles, genres, keywords, cast, crew, and overviews, which are used to build the content-based recommendation system.
+📂 **Dataset:** [TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ## 🔄 Workflow
 
