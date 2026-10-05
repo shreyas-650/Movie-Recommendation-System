@@ -2,6 +2,10 @@
 
 A content-based movie recommendation system that recommends movies based on their similarity to a selected movie.
 
+🚀 **Live Demo:** [Cinema-Suggest](https://movie-recommendation-system-2qre.onrender.com/)
+
+📂 **Dataset:** [TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
 ## 📌 Features
 
 - Movie data processing using Pandas
@@ -21,13 +25,6 @@ A content-based movie recommendation system that recommends movies based on thei
 - Scikit-learn
 - Streamlit
 
-# 🎬 Movie Recommendation System
-
-A content-based movie recommendation system using NLP, Bag of Words and cosine similarity.
-
-🚀 **Live Demo:** [Cinema-Suggest](https://movie-recommendation-system-2qre.onrender.com/)
-
-📂 **Dataset:** [TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ## 🔄 Workflow
 
