@@ -2,7 +2,7 @@
 
 A content-based movie recommendation system that recommends movies based on their similarity to a selected movie.
 
-🚀 **Live Demo:** [Cinema-Suggest](https://movie-recommendation-system-2qre.onrender.com/)
+🚀 **Live Demo:** [Cinema-Suggest](https://movie-recommendation-system-shreyas.streamlit.app/)
 
 📂 **Dataset:** [TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
